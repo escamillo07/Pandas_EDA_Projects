@@ -1,2 +1,2 @@
-# data_science_assignments
-data
+# data_science_assignments and projects 
+
